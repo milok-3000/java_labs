@@ -1,0 +1,5 @@
+# Dependency injection configuration
+# Format: interface.full.name=implementation.full.name
+
+labs.java_lab_5.DataProcessor=labs.java_lab_5.DataProcessorImpl
+labs.java_lab_5.MessageHandler=labs.java_lab_5.MessageHandlerImpl
